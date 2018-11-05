@@ -1,0 +1,24 @@
+{
+  "name": "bobsburgerlogger",
+  "version": "1.0.0",
+  "description": "A \"Bob's Burgers\" themed burger logging application with MySQL, Node, Express, Handlebars and a homemade ORM. Yummy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reneegrinnell/BobsBurgerLogger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reneegrinnell/BobsBurgerLogger/issues"
+  },
+  "homepage": "https://github.com/reneegrinnell/BobsBurgerLogger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
+}
