@@ -1,6 +1,6 @@
 body {
-	background-color: #a70e12;
-	font-family: museoslabbold,"Courier New",Courier,monospace;
+	background-color: rgb(245, 245, 87);
+	font-family: "Courier New",Courier,monospace;
 	font-style: normal;
     font-weight: 700;
 }
@@ -21,7 +21,7 @@ body {
 }
 
 .title {
-	color: white;
+	color: black;
 	margin-bottom: 15px;
 	text-align: center;
 	text-indent: 7px;
@@ -61,6 +61,7 @@ body {
 
 #line {
 	width: 1000px;
+	border-color: black;
 }
 
 #box {
@@ -79,13 +80,7 @@ body {
 
 #heaven {
 	text-align: center;
-	color: white;
-}
-
-.giphy-embed {
-	margin-left: 480px;
-	margin-top: 20px;
-	margin-bottom: 20px;
+	color: black;
 }
 
 #button {
