@@ -8,7 +8,7 @@ Users of the Bob's Burger Logger can create, store, and devour delicious SQL dat
 https://nameless-reaches-49971.herokuapp.com/
 
 ## Screenshots:
-[!Screenshot](/public/assets/images/screenshot.PNG)
+![Screenshot](public/assets/img/screenshot.PNG)
 
 ## Credits
 * Shoutout to [Loren Bouchard](https://en.wikipedia.org/wiki/Loren_Bouchard) for dreaming up [*Bob's Burgers*](https://en.wikipedia.org/wiki/Bob%27s_Burgers).
