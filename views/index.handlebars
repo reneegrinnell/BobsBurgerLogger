@@ -33,7 +33,7 @@
                         {{#unless this.devoured}}
                         <li class="list-group-item">
                             <div class="input-group">
-                                <p class="lead"> {{this.burger_name}} </p>
+                                <p class="lead"> {{this.burgername}} </p>
                                 <span class="input-group-btn">
                                     <form action="burgers/{{this.id}}?_method=PUT" method="POST">
                                         <input type="hidden" name="devoured" value="true">

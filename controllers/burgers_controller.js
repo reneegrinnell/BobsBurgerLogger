@@ -18,8 +18,9 @@ router.get("/burgers", function(req, res) {
 });
 
 router.post("/burgers", function(req, res) {
+    console.log(JSON.stringify(req.body));
     burger.create(
-        ["burger_name"], [req.body.b_name], function() {
+        ["burgername"], [req.body.burgername], function() {
             res.redirect("/burgers");
         });
 });
